@@ -1,6 +1,13 @@
 ## Hi there 👋
 
+My name is Nova. I am a junior at Westfield State University, majoring in mathematics and as of late, computer science. I am currently learning Java, Python, and R.
+
+Once I graduate, I would like to become a software engineer or a data scientist.
+
+My pronouns are: He/They
+
 <!--
+
 **NovaS007/NovaS007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +20,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
