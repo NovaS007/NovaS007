@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-My name is Nova. I am a junior at Westfield State University, majoring in mathematics and as of late, computer science. I am currently learning Java, Python, and R.
+I'm Nova, a junior at Westfield State University double majoring in Mathematics and Computer Science. Currently, I’m deepening my skills in Java, Python, and R.
 
-Once I graduate, I would like to become a software engineer or a data scientist.
+After graduation, I aim to pursue a career as a Software Engineer or Data Scientist.
 
-My pronouns are: He/They
+My pronouns are He/They.
 
 <!--
 
